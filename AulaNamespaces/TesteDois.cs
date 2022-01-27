@@ -1,0 +1,7 @@
+namespace AulaNamespaces
+{
+    class TesteDois
+    {
+
+    }
+}
