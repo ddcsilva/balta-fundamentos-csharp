@@ -9,6 +9,10 @@ namespace AulaString
             string primeiraLetra = "C";
             string texto = "Meu texto";
             var documento = "123456789";
+
+            System.Console.WriteLine(primeiraLetra);
+            System.Console.WriteLine(texto);
+            System.Console.WriteLine(documento);
         }
     }
 }
