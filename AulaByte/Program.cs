@@ -10,6 +10,9 @@ namespace AulaByte
             // sbyte (8-byte) -> -128 até 127
             byte meuByte = 127;
             sbyte meuByteNegativo = -128;
+
+            System.Console.WriteLine(meuByte);
+            System.Console.WriteLine(meuByteNegativo);
         }
     }
 }
