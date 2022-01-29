@@ -12,6 +12,13 @@ namespace AulaNumerosInteiros
             uint num4 = 1;
             long num5 = -1;
             ulong num6 = 1;
+
+            System.Console.WriteLine(num1);
+            System.Console.WriteLine(num2);
+            System.Console.WriteLine(num3);
+            System.Console.WriteLine(num4);
+            System.Console.WriteLine(num5);
+            System.Console.WriteLine(num6);
         }
     }
 }
