@@ -16,6 +16,7 @@ namespace AulaConvertendoTipos
             // inteiro = Convert.ToInt32(real); // FUNCIONA
 
             System.Console.WriteLine(inteiro);
+            System.Console.WriteLine(real);
             System.Console.WriteLine(Convert.ToBoolean(1));
         }
     }
